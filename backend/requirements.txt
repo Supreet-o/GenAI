@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sentence-transformers
+chromadb
+pypdf
+python-docx
+requests
+httpx
+transformers
+torch
+tqdm
+python-dotenv
+accelerate
+scikit-learn
+pymupdf
+aiofiles
